@@ -9,4 +9,5 @@ This tool simulates a denial-of-service attack for educational purposes, allowin
 Use Git to clone the repository:
 ```bash
 git clone https://github.com/Lei-hacks/DARKFRAME-CYBER-ALLIANCE-DDOS-TOOL.git
+cd DARKFRAME-CYBER-ALLIANCE-DDOS-TOOL
 python3 darkdos.py
